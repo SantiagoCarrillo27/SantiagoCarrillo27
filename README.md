@@ -11,8 +11,8 @@ My foray into software development started when I still didn't even have a compu
 One of my greatest achievements has been contributing as a Full Stack Developer in the correction, security and optimization of web systems in one of the leading fintech in Colombia, which currently has more than 65,000 clients throughout the country. Thanks to these improvements, I managed to reduce the tickets generated to IT support by up to 45%.
 
 Currently, I am exploring opportunities like freelance. In one of my most prominent projects, I developed a web application for dating scheduling in beauty centers.
-- :school: I am studying 5th year of systems engineering
-- :technologist: I am passionate about technology
+- :school: Studying 5th year of systems engineering
+- :technologist: Passionate about technology
 - :boom: You can visit [MY WEBSITE](https://santiagocs.vercel.app/) to get some knowledge of what I do
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=SantiagoCS&amp;color=EA4335&amp;style=flat-square)](mailto:santiagodev27@gmail.com)
 - :nerd_face: Never perish, `"trust"`
