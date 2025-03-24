@@ -17,7 +17,6 @@ Currently, I am exploring opportunities like freelance. In one of my most promin
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=SantiagoCS&amp;color=EA4335&amp;style=flat-square)](mailto:santiagodev27@gmail.com)
 - :nerd_face: Never perish, `"trust"`
 
-<br>
 
 ## Technologies That I Know👨🏻‍💻
 
